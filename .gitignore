@@ -22,3 +22,8 @@ pnpm-lock.yaml
 
 # JetBrains scratch file
 index.js
+
+# Agent/tooling operational artifacts
+.omc/
+.memsearch/
+tsconfig.tsbuildinfo
